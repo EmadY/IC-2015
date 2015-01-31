@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="Studere.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Studere"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="20,20,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Studere" 
+                   Style="{ThemeResource HeaderTextBlockStyle}" 
+                   FontSize="30" 
+                   FontWeight="Bold"/>
+        
+        
+        <StackPanel Grid.Row="1">
+        <StackPanel>
+        
+            <TextBlock Text=" Sign in"  HorizontalAlignment="Center" FontSize="24"/>
+            <TextBlock Text="Username" FontSize="25"/>
+            <TextBox Margin="0,0,151,0"/>
+            <TextBlock Text="Password" FontSize="25"/>
+            <TextBox Margin="0,0,151,0"/>
+            <Button Content="Login" 
+                    Name="Button_login" 
+                    BorderBrush="Transparent"
+                    Click="Button_login_Click"
+                    />
+            </StackPanel>
+            
+            <StackPanel Margin="0,30,0,0">
+                <TextBlock Text="Don't have an account?" FontSize="24"/>
+                <TextBlock Text="Sign up with" FontSize="20"/>
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Content="facebook"
+                            Width="158"
+                            BorderBrush="Transparent"/>
+                    <Button Content="Gmail" Width="158"
+                            BorderBrush="Transparent"/>
+                    <Button Content="College Account" Width="158"
+                            BorderBrush="Transparent"/>
+                    <Button Content="Phone Number" Width="158"
+                            BorderBrush="Transparent" Click="Button_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Page>

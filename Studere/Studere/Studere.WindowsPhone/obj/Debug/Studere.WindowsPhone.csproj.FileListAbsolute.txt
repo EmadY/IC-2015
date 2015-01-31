@@ -1,0 +1,42 @@
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\App.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\Studere.WindowsPhone.xr.xml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\Studere.WindowsPhone.exe
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\Studere.WindowsPhone.pdb
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\resources.pri
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\Studere.WindowsPhone.build.appxrecipe
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\App.g.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\App.xaml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\App.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Studere.WindowsPhone.exe
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Studere.WindowsPhone.pdb
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Course selection.g.i.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Course selection.g.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\PickYourQuestionKind.g.i.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\PickYourQuestionKind.g.cs
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\PickYourQuestionKind.xaml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\PickYourQuestionKind.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Course selection.xaml
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\obj\Debug\Course selection.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\Course selection.xbf
+c:\users\ebrah_000\documents\visual studio 2013\Projects\Studere\Studere\Studere.WindowsPhone\bin\Debug\PickYourQuestionKind.xbf
