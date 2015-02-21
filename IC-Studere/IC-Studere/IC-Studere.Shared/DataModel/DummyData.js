@@ -24,7 +24,7 @@
     "department": "GEOL",
     "course_number": "250",
     "Teacher": "Charles Darwin",
-    "section_number": 3,
+    "section_number": "3",
     "time": "8.30 am",
     "location": "Bech403"
 }
