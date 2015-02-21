@@ -29,7 +29,12 @@ namespace IC_Studere
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof())
+            Frame.Navigate(typeof(AddCourse));
+        }
+
+        private void Button_login_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
